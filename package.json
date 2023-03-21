@@ -1,0 +1,18 @@
+{
+  "name": "holochain-holochain-2039",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "test.js",
+  "dependencies": {
+    "@holochain/client": "^0.12.5",
+    "@whi/holo-hash": "^0.3.0",
+    "@whi/holochain-backdrop": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
